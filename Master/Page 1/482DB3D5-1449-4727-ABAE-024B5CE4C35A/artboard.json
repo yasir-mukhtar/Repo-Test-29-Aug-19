@@ -35,7 +35,7 @@
     "do_objectID": "BB998FDD-53CF-4775-AA0D-97365B18CE44"
   },
   "hasBackgroundColor": false,
-  "hasClickThrough": false,
+  "hasClickThrough": true,
   "hasClippingMask": false,
   "horizontalRulerData": {
     "_class": "rulerData",
@@ -59,8 +59,16 @@
       "id": "F023607F-4FF2-4FF0-B955-24B8163740A6"
     },
     {
+      "class": "rectangle",
+      "id": "78956D12-EA6F-4A4E-8CA6-D99928671906"
+    },
+    {
       "class": "text",
       "id": "7508FE3A-9406-48BE-8972-7ECD851EB061"
+    },
+    {
+      "class": "text",
+      "id": "09DD269D-A0FE-4122-AD98-B7AB362F0B49"
     }
   ],
   "name": "Artboard",
