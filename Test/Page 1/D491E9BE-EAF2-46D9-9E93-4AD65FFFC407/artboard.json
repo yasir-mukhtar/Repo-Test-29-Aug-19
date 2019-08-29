@@ -54,8 +54,12 @@
       "id": "92D5ABCC-2512-4603-AE2E-DA77B5B69384"
     },
     {
-      "class": "rectangle",
-      "id": "9ECC9754-4158-4FB5-B0EF-172FEBECE773"
+      "class": "group",
+      "id": "F3BE60A7-DBB5-4D27-89AF-133BC32722AA"
+    },
+    {
+      "class": "group",
+      "id": "12ED1895-E27D-40D1-A209-56790B2A46D5"
     },
     {
       "class": "rectangle",
